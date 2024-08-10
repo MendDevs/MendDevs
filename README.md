@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MendDevs
-- 👀 I’m interested in DevOps and Software Development
+- 👀 I’m interested in Software and DevOps Engineering
 - 🌱 I’m currently studying Network Engineering (IT Systems and Services) at ENSA Marrakech
 - 📫 How to reach me: LinkedIn or Gmail.
 
