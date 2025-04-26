@@ -1,21 +1,21 @@
-# 👋 Hello, I’m @MendDevs
+## 👋 Hello, I’m @MendDevs
 
 I'm a passionate Software and DevOps Engineer in the making, dedicated to building scalable systems, beautiful web apps, and robust cloud-native solutions. 🚀
 
-## 👀 What I'm Interested In:
+### 👀 What I'm Interested In:
 - Software Engineering — Web, Mobile, Backend development
 - DevOps Engineering — CI/CD, Infrastructure as Code, Cloud Services
 - AI & Automation — Leveraging data and intelligent systems to solve real-world problems
 - Trading Systems & Financial Technology — Building smarter tools for online markets
 - Entrepreneurship — Founder of Impactors Academy, empowering young talents through tech and innovation
 
-## 🌱 Current Focus:
+### 🌱 Current Focus:
 - Enhancing my skills in Cloud DevOps (AWS, Azure, GCP)
 - Designing full-stack applications with a focus on reliability and performance
 - Learning advanced system design and architecture patterns
 - Contributing to impactful open-source and academic projects
 
-## 📫 How to Reach Me:
+### 📫 How to Reach Me:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelmarkiemorris/)
 - Follow my learning journey and projects here on GitHub!
 
