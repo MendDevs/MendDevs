@@ -10,10 +10,10 @@ I'm a passionate Software and DevOps Engineer in the making, dedicated to buildi
 - Entrepreneurship — Founder of Impactors Academy, empowering young talents through tech and innovation
 
 ### 🌱 Current Focus:
-- Enhancing my skills in Cloud DevOps (AWS, Azure, GCP)
+- Enhancing my skills in Java Development, DevOps and Cloud (AWS, Azure, GCP)
 - Designing full-stack applications with a focus on reliability and performance
-- Learning advanced system design and architecture patterns
-- Contributing to impactful open-source and academic projects
+- Learning AI 
+- Building real world projects.
 
 ### 📫 How to Reach Me:
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuelmarkiemorris/)
