@@ -3,7 +3,7 @@
 I'm a passionate Software and DevOps Engineer in the making, dedicated to building scalable systems, beautiful web apps, and robust cloud-native solutions. 🚀
 
 ### 👀 What I'm Interested In:
-- Software Engineering — Web, Mobile, Backend development
+-- Software Engineering — Web, Mobile, Backend development
 - DevOps Engineering — CI/CD, Infrastructure as Code, Cloud Services
 - AI & Automation — Leveraging data and intelligent systems to solve real-world problems
 - Trading Systems & Financial Technology — Building smarter tools for online markets
