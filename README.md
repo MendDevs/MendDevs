@@ -1,5 +1,3 @@
-### 👋 Hello, I’m @MendDevs (Emmanuel Morris)
-
 I'm a passionate Software and DevOps Engineer in the making, dedicated to building scalable systems, beautiful web apps, and robust cloud-native solutions. 🚀
 
 #### 👀 What I'm Interested In:
