@@ -8,8 +8,8 @@ I'm a passionate Software and DevOps Engineer in the making, dedicated to buildi
 - Entrepreneurship — Founder of Impactors Academy, empowering young talents through tech and innovation
 
 #### Current Focus:
-- Enhancing my skills in Java Development, DevOps and Cloud (AWS, Azure, GCP)
-- Designing full-stack applications with a focus on reliability and performance
+- Java Development, DevOps and Cloud (AWS, Azure, GCP)
+- Designing full-stack applications 
 - Learning AI 
 - Building real world projects.
 
