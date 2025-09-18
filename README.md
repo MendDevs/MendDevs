@@ -1,4 +1,4 @@
-I'm a passionate Software and DevOps Engineer in the making, dedicated to building scalable systems, web apps, and robust cloud-native solutions. 
+I'm a passionate Software and DevOps Engineer in the making, dedicated to building scalable systems, web apps, and  cloud-native solutions. 
 
 ####  What I'm Interested In:
 - Software Engineering — Web, Mobile, Backend development
